@@ -12,7 +12,7 @@ class Appli(Tk):
         
         self.minsize(520, 480)
         
-        self.hadOneJob = ListImage(len(argv) > 1) #Yes, I'm very lazy
+        self.hadOneJob = ListImage(len(argv) > 1)
         
         self.initialize()
         
