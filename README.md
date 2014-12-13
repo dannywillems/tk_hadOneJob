@@ -14,4 +14,4 @@ You need :
     - "tkinter" : http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
     - "PIL" : http://www.pythonware.com/products/pil/
 
-email : geekstay@gmail.com
+email : dan.wil@hotmail.com
